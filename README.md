@@ -1,4 +1,4 @@
-# Easy-Augment-Toolkit
+# Easy-YOLO-Augmenter
 ### 前往本仓库的 [**Releases**](https://github.com/BlueDarkUP/Easy-YOLO-Augmenter/releases/) 页面下载最新版本的exe文件
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
